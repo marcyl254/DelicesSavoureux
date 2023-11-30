@@ -177,11 +177,6 @@ Not yet deployed
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: cynthia masila(https://www.linkedin.com/in/cynthia-masila-656a74263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
